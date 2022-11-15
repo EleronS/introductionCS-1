@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\bin\Debug\net6.0\11.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\bin\Debug\net6.0\11.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\bin\Debug\net6.0\11.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\bin\Debug\net6.0\11.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\bin\Debug\net6.0\11.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\obj\Debug\net6.0\11.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\obj\Debug\net6.0\11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\obj\Debug\net6.0\11.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\obj\Debug\net6.0\11.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\obj\Debug\net6.0\11.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\obj\Debug\net6.0\11.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\obj\Debug\net6.0\refint\11.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\obj\Debug\net6.0\11.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\obj\Debug\net6.0\11.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\11\obj\Debug\net6.0\ref\11.dll
