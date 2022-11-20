@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\bin\Debug\net6.0\21.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\bin\Debug\net6.0\21.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\bin\Debug\net6.0\21.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\bin\Debug\net6.0\21.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\bin\Debug\net6.0\21.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\obj\Debug\net6.0\21.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\obj\Debug\net6.0\21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\obj\Debug\net6.0\21.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\obj\Debug\net6.0\21.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\obj\Debug\net6.0\21.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\obj\Debug\net6.0\21.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\obj\Debug\net6.0\refint\21.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\obj\Debug\net6.0\21.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\obj\Debug\net6.0\21.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\21\obj\Debug\net6.0\ref\21.dll
