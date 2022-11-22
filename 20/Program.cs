@@ -7,7 +7,7 @@ y=Convert.ToInt32(Console.ReadLine());
 
 int Part(double x,double y)
 {
-    int part = 0;
+
 if(x>0 && y>0) return 1;
 if(x<0 && y>0) return 2;
 if(x<0 && y<0) return 3;
