@@ -4,7 +4,15 @@ System.Console.WriteLine("Введите координаты X");
 x=Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Введите координаты Y");
 y=Convert.ToInt32(Console.ReadLine());
-if(x>0 && y>0) System.Console.WriteLine("Первая четверть плоскости");
-if(x<0 && y>0) System.Console.WriteLine("Вторая четверть плоскости");
-if(x<0 && y<0) System.Console.WriteLine("Третья четверть плоскости");
-if(x>0 && y<0) System.Console.WriteLine("Четвертая четверть плоскости");
+
+int Part(double x,double y)
+{
+    int part = 0;
+if(x>0 && y>0) return 1;
+if(x<0 && y>0) return 2;
+if(x<0 && y<0) return 3;
+if(x>0 && y<0) return 4;
+
+return 0;
+}
+System.Console.WriteLine("Четверть плоскости :" +Part(x,y));
