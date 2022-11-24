@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\bin\Debug\net6.0\Алгоритм Эвклида.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\bin\Debug\net6.0\Алгоритм Эвклида.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\bin\Debug\net6.0\Алгоритм Эвклида.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\bin\Debug\net6.0\Алгоритм Эвклида.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\bin\Debug\net6.0\Алгоритм Эвклида.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\obj\Debug\net6.0\Алгоритм Эвклида.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\obj\Debug\net6.0\Алгоритм Эвклида.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\obj\Debug\net6.0\Алгоритм Эвклида.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\obj\Debug\net6.0\Алгоритм Эвклида.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\obj\Debug\net6.0\Алгоритм Эвклида.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\obj\Debug\net6.0\Алгоритм Эвклида.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\obj\Debug\net6.0\refint\Алгоритм Эвклида.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\obj\Debug\net6.0\Алгоритм Эвклида.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\obj\Debug\net6.0\Алгоритм Эвклида.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Алгоритм Эвклида\obj\Debug\net6.0\ref\Алгоритм Эвклида.dll
