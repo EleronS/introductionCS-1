@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\bin\Debug\net6.0\007-ARRAYS(МАССИВЫ).exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\bin\Debug\net6.0\007-ARRAYS(МАССИВЫ).deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\bin\Debug\net6.0\007-ARRAYS(МАССИВЫ).runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\bin\Debug\net6.0\007-ARRAYS(МАССИВЫ).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\bin\Debug\net6.0\007-ARRAYS(МАССИВЫ).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\obj\Debug\net6.0\007-ARRAYS(МАССИВЫ).csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\obj\Debug\net6.0\007-ARRAYS(МАССИВЫ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\obj\Debug\net6.0\007-ARRAYS(МАССИВЫ).AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\obj\Debug\net6.0\007-ARRAYS(МАССИВЫ).AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\obj\Debug\net6.0\007-ARRAYS(МАССИВЫ).csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\obj\Debug\net6.0\007-ARRAYS(МАССИВЫ).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\obj\Debug\net6.0\refint\007-ARRAYS(МАССИВЫ).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\obj\Debug\net6.0\007-ARRAYS(МАССИВЫ).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\obj\Debug\net6.0\007-ARRAYS(МАССИВЫ).genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\007-ARRAYS(МАССИВЫ)\obj\Debug\net6.0\ref\007-ARRAYS(МАССИВЫ).dll
