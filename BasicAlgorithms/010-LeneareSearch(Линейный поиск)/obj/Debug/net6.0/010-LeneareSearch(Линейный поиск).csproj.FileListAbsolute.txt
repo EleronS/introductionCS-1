@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\bin\Debug\net6.0\010-LeneareSearch(Линейный поиск).exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\bin\Debug\net6.0\010-LeneareSearch(Линейный поиск).deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\bin\Debug\net6.0\010-LeneareSearch(Линейный поиск).runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\bin\Debug\net6.0\010-LeneareSearch(Линейный поиск).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\bin\Debug\net6.0\010-LeneareSearch(Линейный поиск).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\obj\Debug\net6.0\010-LeneareSearch(Линейный поиск).csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\obj\Debug\net6.0\010-LeneareSearch(Линейный поиск).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\obj\Debug\net6.0\010-LeneareSearch(Линейный поиск).AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\obj\Debug\net6.0\010-LeneareSearch(Линейный поиск).AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\obj\Debug\net6.0\010-LeneareSearch(Линейный поиск).csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\obj\Debug\net6.0\010-LeneareSearch(Линейный поиск).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\obj\Debug\net6.0\refint\010-LeneareSearch(Линейный поиск).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\obj\Debug\net6.0\010-LeneareSearch(Линейный поиск).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\obj\Debug\net6.0\010-LeneareSearch(Линейный поиск).genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\010-LeneareSearch(Линейный поиск)\obj\Debug\net6.0\ref\010-LeneareSearch(Линейный поиск).dll

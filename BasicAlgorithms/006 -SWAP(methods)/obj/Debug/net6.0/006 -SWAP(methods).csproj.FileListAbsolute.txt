@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\bin\Debug\net6.0\006 -SWAP(methods).exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\bin\Debug\net6.0\006 -SWAP(methods).deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\bin\Debug\net6.0\006 -SWAP(methods).runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\bin\Debug\net6.0\006 -SWAP(methods).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\bin\Debug\net6.0\006 -SWAP(methods).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\obj\Debug\net6.0\006 -SWAP(methods).csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\obj\Debug\net6.0\006 -SWAP(methods).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\obj\Debug\net6.0\006 -SWAP(methods).AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\obj\Debug\net6.0\006 -SWAP(methods).AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\obj\Debug\net6.0\006 -SWAP(methods).csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\obj\Debug\net6.0\006 -SWAP(methods).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\obj\Debug\net6.0\refint\006 -SWAP(methods).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\obj\Debug\net6.0\006 -SWAP(methods).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\obj\Debug\net6.0\006 -SWAP(methods).genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\006 -SWAP(methods)\obj\Debug\net6.0\ref\006 -SWAP(methods).dll

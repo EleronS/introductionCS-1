@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\bin\Debug\net6.0\009-RandomArray.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\bin\Debug\net6.0\009-RandomArray.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\bin\Debug\net6.0\009-RandomArray.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\bin\Debug\net6.0\009-RandomArray.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\bin\Debug\net6.0\009-RandomArray.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\obj\Debug\net6.0\009-RandomArray.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\obj\Debug\net6.0\009-RandomArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\obj\Debug\net6.0\009-RandomArray.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\obj\Debug\net6.0\009-RandomArray.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\obj\Debug\net6.0\009-RandomArray.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\obj\Debug\net6.0\009-RandomArray.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\obj\Debug\net6.0\refint\009-RandomArray.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\obj\Debug\net6.0\009-RandomArray.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\obj\Debug\net6.0\009-RandomArray.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\009-RandomArray\obj\Debug\net6.0\ref\009-RandomArray.dll
