@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\bin\Debug\net6.0\Select sort(сортировка выбором).exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\bin\Debug\net6.0\Select sort(сортировка выбором).deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\bin\Debug\net6.0\Select sort(сортировка выбором).runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\bin\Debug\net6.0\Select sort(сортировка выбором).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\bin\Debug\net6.0\Select sort(сортировка выбором).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\obj\Debug\net6.0\Select sort(сортировка выбором).csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\obj\Debug\net6.0\Select sort(сортировка выбором).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\obj\Debug\net6.0\Select sort(сортировка выбором).AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\obj\Debug\net6.0\Select sort(сортировка выбором).AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\obj\Debug\net6.0\Select sort(сортировка выбором).csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\obj\Debug\net6.0\Select sort(сортировка выбором).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\obj\Debug\net6.0\refint\Select sort(сортировка выбором).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\obj\Debug\net6.0\Select sort(сортировка выбором).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\obj\Debug\net6.0\Select sort(сортировка выбором).genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\014-Select sort(сортировка выбором)\obj\Debug\net6.0\ref\Select sort(сортировка выбором).dll

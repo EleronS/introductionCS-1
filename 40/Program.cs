@@ -12,6 +12,7 @@ int[] RandomIntArray(int N,int min=1,int max=10)
 
 void Print(int[] a)
 { 
+    
     for(int i=0;i<a.Length;i++)
     System.Console.Write($"{a[i],5}");
   

@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\bin\Debug\net6.0\Bubble sort(пузырьковая сортировка).exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\bin\Debug\net6.0\Bubble sort(пузырьковая сортировка).deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\bin\Debug\net6.0\Bubble sort(пузырьковая сортировка).runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\bin\Debug\net6.0\Bubble sort(пузырьковая сортировка).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\bin\Debug\net6.0\Bubble sort(пузырьковая сортировка).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\obj\Debug\net6.0\Bubble sort(пузырьковая сортировка).csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\obj\Debug\net6.0\Bubble sort(пузырьковая сортировка).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\obj\Debug\net6.0\Bubble sort(пузырьковая сортировка).AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\obj\Debug\net6.0\Bubble sort(пузырьковая сортировка).AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\obj\Debug\net6.0\Bubble sort(пузырьковая сортировка).csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\obj\Debug\net6.0\Bubble sort(пузырьковая сортировка).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\obj\Debug\net6.0\refint\Bubble sort(пузырьковая сортировка).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\obj\Debug\net6.0\Bubble sort(пузырьковая сортировка).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\obj\Debug\net6.0\Bubble sort(пузырьковая сортировка).genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Bubble sort(пузырьковая сортировка)\obj\Debug\net6.0\ref\Bubble sort(пузырьковая сортировка).dll
