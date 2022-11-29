@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\bin\Debug\net6.0\011-Arrey Revers(переворот массива).exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\bin\Debug\net6.0\011-Arrey Revers(переворот массива).deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\bin\Debug\net6.0\011-Arrey Revers(переворот массива).runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\bin\Debug\net6.0\011-Arrey Revers(переворот массива).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\bin\Debug\net6.0\011-Arrey Revers(переворот массива).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\obj\Debug\net6.0\011-Arrey Revers(переворот массива).csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\obj\Debug\net6.0\011-Arrey Revers(переворот массива).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\obj\Debug\net6.0\011-Arrey Revers(переворот массива).AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\obj\Debug\net6.0\011-Arrey Revers(переворот массива).AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\obj\Debug\net6.0\011-Arrey Revers(переворот массива).csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\obj\Debug\net6.0\011-Arrey Revers(переворот массива).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\obj\Debug\net6.0\refint\011-Arrey Revers(переворот массива).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\obj\Debug\net6.0\011-Arrey Revers(переворот массива).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\obj\Debug\net6.0\011-Arrey Revers(переворот массива).genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\011-Arrey Revers(переворот массива)\obj\Debug\net6.0\ref\011-Arrey Revers(переворот массива).dll
