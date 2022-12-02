@@ -1,5 +1,5 @@
 ﻿// 56.Написать программу копирования массива.
-System.Console.Write("Введите длину массива: ");
+/*System.Console.Write("Введите длину массива: ");
 int n= Convert.ToInt32(Console.ReadLine());
 int[]a= new int[n];
 System.Console.WriteLine("Введите элементы массива: ");
@@ -21,4 +21,8 @@ void Print(int[] c)
 }
 int[]c= new int[a.Length];
 CopyArray(c);
-Print(c);
+Print(c);*/
+
+int n= 5;
+int []a=new int[n];
+int []c=new int[a.Length];
