@@ -23,6 +23,41 @@ void Print2DArray(int[,]a)
        System.Console.WriteLine();
     }
 }
+bool LinearSearch2DArray(int[,] a,int find,out int i,out int j)
+{
+    for(i=0;i<a.GetLength(0);i++)
+    
+        for(j=0;j<a.GetLength(1);j++)
+            if(a[i,j]==find)
+             return true;
+    j=-1;//?
+    return false;        
+}
 
-int[,]a= Random2DArray(3,5);
+void Sort2DArray(int[,]a)
+{
+    for(int j=0;j<a.GetLength(1);j++)
+       for(int k=0;k<a.GetLength(0);k++)
+          for(int i=0;i<a.GetLength(0)-1;i++)
+             if(a[i,j]>a[i+1,j])
+             {
+                int t=a[i,j];
+                a[i,j]=a[i+1,j];
+                a[i+1,j]=t;
+             }
+}
+
+
+int[,]a= Random2DArray(5,5);
+int find=20;
+//a[2,2]=find;
+Print2DArray(a);
+int i,j;
+if(LinearSearch2DArray(a,find,out i,out j))
+   System.Console.WriteLine($"Element {find} found in position {i},{j}");
+else
+   System.Console.WriteLine($"Element not found");
+System.Console.WriteLine();
+
+Sort2DArray(a);
 Print2DArray(a);

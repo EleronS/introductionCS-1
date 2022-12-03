@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\bin\Debug\net6.0\63.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\bin\Debug\net6.0\63.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\bin\Debug\net6.0\63.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\bin\Debug\net6.0\63.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\bin\Debug\net6.0\63.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\obj\Debug\net6.0\63.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\obj\Debug\net6.0\63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\obj\Debug\net6.0\63.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\obj\Debug\net6.0\63.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\obj\Debug\net6.0\63.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\obj\Debug\net6.0\63.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\obj\Debug\net6.0\refint\63.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\obj\Debug\net6.0\63.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\obj\Debug\net6.0\63.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\63\obj\Debug\net6.0\ref\63.dll
