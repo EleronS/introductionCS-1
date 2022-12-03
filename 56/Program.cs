@@ -30,10 +30,19 @@ int []c=new int[a.Length];
 int[] CopyArray(int[]c)
 {
   for(int i=0;i<a.Length;i++)
-  {
+  
      c[i]=a[i];
-    System.Console.Write($"{c[i],5}");
-  }
+  
   return c;
 }
+
+void PrintArray(int[]c)
+{
+    for(int i=0;i<c.Length;i++)
+           System.Console.Write($"{c[i],4}");
+       System.Console.WriteLine();
+    
+}
+
 CopyArray(c);
+PrintArray(c);
