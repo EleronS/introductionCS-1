@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\bin\Debug\net6.0\020-2Dimention array(двумерный массив).exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\bin\Debug\net6.0\020-2Dimention array(двумерный массив).deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\bin\Debug\net6.0\020-2Dimention array(двумерный массив).runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\bin\Debug\net6.0\020-2Dimention array(двумерный массив).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\bin\Debug\net6.0\020-2Dimention array(двумерный массив).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\obj\Debug\net6.0\020-2Dimention array(двумерный массив).csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\obj\Debug\net6.0\020-2Dimention array(двумерный массив).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\obj\Debug\net6.0\020-2Dimention array(двумерный массив).AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\obj\Debug\net6.0\020-2Dimention array(двумерный массив).AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\obj\Debug\net6.0\020-2Dimention array(двумерный массив).csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\obj\Debug\net6.0\020-2Dimention array(двумерный массив).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\obj\Debug\net6.0\refint\020-2Dimention array(двумерный массив).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\obj\Debug\net6.0\020-2Dimention array(двумерный массив).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\obj\Debug\net6.0\020-2Dimention array(двумерный массив).genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\020-2Dimention array(двумерный массив)\obj\Debug\net6.0\ref\020-2Dimention array(двумерный массив).dll

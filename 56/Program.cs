@@ -27,13 +27,13 @@ int []a={1,2,3,4,5,6,7,8,9,10};
 int []c=new int[a.Length];
 
 
-int CopyArray(int[]c)
+int[] CopyArray(int[]c)
 {
   for(int i=0;i<a.Length;i++)
   {
      c[i]=a[i];
     System.Console.Write($"{c[i],5}");
   }
-  return 1;
+  return c;
 }
 CopyArray(c);
