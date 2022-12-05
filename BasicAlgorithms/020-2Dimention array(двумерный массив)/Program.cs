@@ -50,7 +50,7 @@ void Sort2DArray(int[,]a)
 
 int[,]a= Random2DArray(5,5);
 int find=20;
-//a[2,2]=find;
+a[2,2]=find*-1;
 Print2DArray(a);
 int i,j;
 if(LinearSearch2DArray(a,find,out i,out j))
