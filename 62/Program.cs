@@ -1,4 +1,4 @@
-﻿// 62. В двумерном массиве n*k заменить четные элементы на противоположные
+﻿// // 62. В двумерном массиве n*k заменить четные элементы на противоположные
 // по значению a[i,j] = -a[i,j]. Написать отдельную подпрограмму на вход
 // которой подается массив, а на выходе измененный массив.
 
@@ -12,16 +12,33 @@ for(int i=0;i<n;i++)
     a[i,j]=random.Next(min,max+1);
     return a;
 }
- bool RedactorMinusArray (int[,] a,int find,out int i,out int j)
+void Print2DArray(int[,]a)
 {
-    for(i=0;i<a.GetLength(0);i=+2)
-             
-        for(j=0;j<a.GetLength(1);j++)
-            
-        
+    for(int i=0;i<a.GetLength(0);i++)
+    {
+       for(int j=0;j<a.GetLength(1);j++)
+           System.Console.Write($"{a[i,j],4}");
+       System.Console.WriteLine();
+    }
 }
-       
-
-int[,]a= Random2DArray(5,5);
-
-int find=;
+void RedactorMinusArray(int[,] a)
+{
+    
+    
+          for(int i=0;i<=a.GetLength(0)-1;i++)
+             for(int k=0;k<a.GetLength(0);k++)
+                for(int j=k+1;j<a.GetLength(1);j++)
+                
+                {
+                
+                  a[i,j]=-a[i,j];
+                  
+                }
+    
+}
+ 
+int[,]a= Random2DArray(6,6);
+Print2DArray(a);
+System.Console.WriteLine();
+RedactorMinusArray(a);
+Print2DArray(a);
