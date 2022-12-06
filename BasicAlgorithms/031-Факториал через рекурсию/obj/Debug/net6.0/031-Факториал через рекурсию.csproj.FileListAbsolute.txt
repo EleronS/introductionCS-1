@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\bin\Debug\net6.0\031-Факториал через рекурсию.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\bin\Debug\net6.0\031-Факториал через рекурсию.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\bin\Debug\net6.0\031-Факториал через рекурсию.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\bin\Debug\net6.0\031-Факториал через рекурсию.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\bin\Debug\net6.0\031-Факториал через рекурсию.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\obj\Debug\net6.0\031-Факториал через рекурсию.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\obj\Debug\net6.0\031-Факториал через рекурсию.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\obj\Debug\net6.0\031-Факториал через рекурсию.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\obj\Debug\net6.0\031-Факториал через рекурсию.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\obj\Debug\net6.0\031-Факториал через рекурсию.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\obj\Debug\net6.0\031-Факториал через рекурсию.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\obj\Debug\net6.0\refint\031-Факториал через рекурсию.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\obj\Debug\net6.0\031-Факториал через рекурсию.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\obj\Debug\net6.0\031-Факториал через рекурсию.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\031-Факториал через рекурсию\obj\Debug\net6.0\ref\031-Факториал через рекурсию.dll

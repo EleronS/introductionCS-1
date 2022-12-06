@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\bin\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\bin\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\bin\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\bin\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\bin\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\obj\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\obj\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\obj\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\obj\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\obj\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\obj\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\obj\Debug\net6.0\refint\030-Loop with recoursy (цикл с помощью рекурсии).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\obj\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\obj\Debug\net6.0\030-Loop with recoursy (цикл с помощью рекурсии).genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\030-Loop with recoursy (цикл с помощью рекурсии)\obj\Debug\net6.0\ref\030-Loop with recoursy (цикл с помощью рекурсии).dll

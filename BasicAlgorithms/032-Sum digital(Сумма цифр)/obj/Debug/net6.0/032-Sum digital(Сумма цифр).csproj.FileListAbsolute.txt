@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\bin\Debug\net6.0\032-Sum digital(Сумма цифр).exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\bin\Debug\net6.0\032-Sum digital(Сумма цифр).deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\bin\Debug\net6.0\032-Sum digital(Сумма цифр).runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\bin\Debug\net6.0\032-Sum digital(Сумма цифр).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\bin\Debug\net6.0\032-Sum digital(Сумма цифр).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\refint\032-Sum digital(Сумма цифр).dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\ref\032-Sum digital(Сумма цифр).dll
