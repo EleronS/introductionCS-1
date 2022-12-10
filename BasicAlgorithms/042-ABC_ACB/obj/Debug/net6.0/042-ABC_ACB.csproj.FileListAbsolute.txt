@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\bin\Debug\net6.0\042-ABC_ACB.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\bin\Debug\net6.0\042-ABC_ACB.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\bin\Debug\net6.0\042-ABC_ACB.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\bin\Debug\net6.0\042-ABC_ACB.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\bin\Debug\net6.0\042-ABC_ACB.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\obj\Debug\net6.0\042-ABC_ACB.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\obj\Debug\net6.0\042-ABC_ACB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\obj\Debug\net6.0\042-ABC_ACB.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\obj\Debug\net6.0\042-ABC_ACB.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\obj\Debug\net6.0\042-ABC_ACB.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\obj\Debug\net6.0\042-ABC_ACB.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\obj\Debug\net6.0\refint\042-ABC_ACB.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\obj\Debug\net6.0\042-ABC_ACB.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\obj\Debug\net6.0\042-ABC_ACB.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\042-ABC_ACB\obj\Debug\net6.0\ref\042-ABC_ACB.dll

@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\bin\Debug\net6.0\040-Char.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\bin\Debug\net6.0\040-Char.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\bin\Debug\net6.0\040-Char.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\bin\Debug\net6.0\040-Char.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\bin\Debug\net6.0\040-Char.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\obj\Debug\net6.0\040-Char.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\obj\Debug\net6.0\040-Char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\obj\Debug\net6.0\040-Char.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\obj\Debug\net6.0\040-Char.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\obj\Debug\net6.0\040-Char.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\obj\Debug\net6.0\040-Char.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\obj\Debug\net6.0\refint\040-Char.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\obj\Debug\net6.0\040-Char.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\obj\Debug\net6.0\040-Char.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\040-Char\obj\Debug\net6.0\ref\040-Char.dll

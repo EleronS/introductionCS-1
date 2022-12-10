@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\bin\Debug\net6.0\041-String.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\bin\Debug\net6.0\041-String.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\bin\Debug\net6.0\041-String.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\bin\Debug\net6.0\041-String.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\bin\Debug\net6.0\041-String.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\obj\Debug\net6.0\041-String.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\obj\Debug\net6.0\041-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\obj\Debug\net6.0\041-String.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\obj\Debug\net6.0\041-String.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\obj\Debug\net6.0\041-String.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\obj\Debug\net6.0\041-String.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\obj\Debug\net6.0\refint\041-String.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\obj\Debug\net6.0\041-String.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\obj\Debug\net6.0\041-String.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\041-String\obj\Debug\net6.0\ref\041-String.dll
