@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\bin\Debug\net6.0\81.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\bin\Debug\net6.0\81.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\bin\Debug\net6.0\81.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\bin\Debug\net6.0\81.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\bin\Debug\net6.0\81.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\obj\Debug\net6.0\81.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\obj\Debug\net6.0\81.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\obj\Debug\net6.0\81.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\obj\Debug\net6.0\81.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\obj\Debug\net6.0\81.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\obj\Debug\net6.0\81.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\obj\Debug\net6.0\refint\81.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\obj\Debug\net6.0\81.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\obj\Debug\net6.0\81.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\81\obj\Debug\net6.0\ref\81.dll
