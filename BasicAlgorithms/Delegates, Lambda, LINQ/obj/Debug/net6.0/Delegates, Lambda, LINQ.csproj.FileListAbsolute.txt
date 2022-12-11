@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\bin\Debug\net6.0\Delegates, Lambda, LINQ.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\bin\Debug\net6.0\Delegates, Lambda, LINQ.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\bin\Debug\net6.0\Delegates, Lambda, LINQ.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\bin\Debug\net6.0\Delegates, Lambda, LINQ.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\bin\Debug\net6.0\Delegates, Lambda, LINQ.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\obj\Debug\net6.0\Delegates, Lambda, LINQ.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\obj\Debug\net6.0\Delegates, Lambda, LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\obj\Debug\net6.0\Delegates, Lambda, LINQ.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\obj\Debug\net6.0\Delegates, Lambda, LINQ.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\obj\Debug\net6.0\Delegates, Lambda, LINQ.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\obj\Debug\net6.0\Delegates, Lambda, LINQ.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\obj\Debug\net6.0\refint\Delegates, Lambda, LINQ.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\obj\Debug\net6.0\Delegates, Lambda, LINQ.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\obj\Debug\net6.0\Delegates, Lambda, LINQ.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Delegates, Lambda, LINQ\obj\Debug\net6.0\ref\Delegates, Lambda, LINQ.dll

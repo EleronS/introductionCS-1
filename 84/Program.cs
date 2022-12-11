@@ -22,6 +22,19 @@ foreach(char a in s)
 if(s.Length==d)    
 System.Console.WriteLine(sum); 
 else
-System.Console.WriteLine("Not true digits");  
+System.Console.WriteLine("Not true digits"); 
 
 
+/* решение с семинара(альтернатива с методами)
+string s=Console.ReadLine();
+int n;
+bool flag=int.TryParse(s,out n);
+if(flag)
+{
+  int sum=0;
+  foreach(char c in s)
+  sum=sum+(int)char.GetNumericValue(c);
+  System.Console.WriteLine($"{n} {sum}");
+
+}
+else System.Console.WriteLine("Wrong number");*/

@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\bin\Debug\net6.0\89a.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\bin\Debug\net6.0\89a.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\bin\Debug\net6.0\89a.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\bin\Debug\net6.0\89a.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\bin\Debug\net6.0\89a.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\obj\Debug\net6.0\89a.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\obj\Debug\net6.0\89a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\obj\Debug\net6.0\89a.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\obj\Debug\net6.0\89a.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\obj\Debug\net6.0\89a.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\obj\Debug\net6.0\89a.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\obj\Debug\net6.0\refint\89a.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\obj\Debug\net6.0\89a.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\obj\Debug\net6.0\89a.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\89a\obj\Debug\net6.0\ref\89a.dll

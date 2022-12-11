@@ -1,0 +1,15 @@
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\bin\Debug\net6.0\Частотный словарь.exe
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\bin\Debug\net6.0\Частотный словарь.deps.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\bin\Debug\net6.0\Частотный словарь.runtimeconfig.json
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\bin\Debug\net6.0\Частотный словарь.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\bin\Debug\net6.0\Частотный словарь.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\obj\Debug\net6.0\Частотный словарь.csproj.AssemblyReference.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\obj\Debug\net6.0\Частотный словарь.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\obj\Debug\net6.0\Частотный словарь.AssemblyInfoInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\obj\Debug\net6.0\Частотный словарь.AssemblyInfo.cs
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\obj\Debug\net6.0\Частотный словарь.csproj.CoreCompileInputs.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\obj\Debug\net6.0\Частотный словарь.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\obj\Debug\net6.0\refint\Частотный словарь.dll
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\obj\Debug\net6.0\Частотный словарь.pdb
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\obj\Debug\net6.0\Частотный словарь.genruntimeconfig.cache
+C:\Users\elf\Desktop\VSV\introductionCS-1\BasicAlgorithms\Частотный словарь\obj\Debug\net6.0\ref\Частотный словарь.dll
